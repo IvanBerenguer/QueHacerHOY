@@ -3,7 +3,7 @@
 _Desarrollo web quehacerhoy.com Una página web para buscar actividades para hcer en el dia, o lugares a donde ir_
 
 ## Desarrollado en 🛠️
-_desarrollada en Java, Spring y Thymeleaf_
+_Desarrollada en Java, Spring y Thymeleaf_
 
 
 ## Herramientas
@@ -22,7 +22,7 @@ _desarrollada en Java, Spring y Thymeleaf_
 * **Pierre Crespin** - [Jpierre98](https://github.com/Jpierre98)
 * **Pau Paturzo** - [paupaturzo](https://github.com/paupaturzo)
 * **Paola Maglione** - [paolamaglione77](https://github.com/paolamaglione77)
-* **Agustin fiorde**  [agustinfiorde](https://github.com/agustinfiorde/agustinfiorde) / nuestro tutor
+* **Agustin fiorde** - [agustinfiorde](https://github.com/agustinfiorde/agustinfiorde) / nuestro tutor
 
 
 ## Expresiones de Gratitud 🎁
