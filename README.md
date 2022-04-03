@@ -1,9 +1,9 @@
 # QuehacerHOY web
 
-_Quehacerhoy.com es una página web para buscar actividades para hacer en el dia, o lugares a donde ir_
+Quehacerhoy.com es una página web para buscar actividades para hacer en el dia, o lugares a donde ir
 
 ## Desarrollado en 🛠️
-_Desarrollada en Java, Spring y Thymeleaf_
+Desarrollada en Java, Spring y Thymeleaf
 
 ## Problema
 Muchas veces llega el fin de semana y no tenemos planes para despejar nuestra mente de las responsabilidades un rato entonces, Que Hacer Hoy web cuenta con una cascada de actividades para hacer solo o con amigos para disfrutar un poquito. Basta de quedarte otro fin de semana mas en tu casa.
