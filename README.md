@@ -1,6 +1,6 @@
 # QuehacerHOY web
 
-_Desarrollo web quehacerhoy.com Una página web para buscar actividades para hcer en el dia, o lugares a donde ir_
+_Quehacerhoy.com es una página web para buscar actividades para hacer en el dia, o lugares a donde ir_
 
 ## Desarrollado en 🛠️
 _Desarrollada en Java, Spring y Thymeleaf_
