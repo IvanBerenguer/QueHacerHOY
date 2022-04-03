@@ -5,6 +5,8 @@ _Desarrollo web quehacerhoy.com Una página web para buscar actividades para hce
 ## Desarrollado en 🛠️
 _Desarrollada en Java, Spring y Thymeleaf_
 
+## Problema
+Muchas veces llega el fin de semana y no tenemos planes para despejar nuestra mente de las responsabilidades un rato entonces, Que Hacer Hoy web cuenta con una cascada de actividades para hacer solo o con amigos para disfrutar un poquito. Basta de quedarte otro fin de semana mas en tu casa.
 
 ## Herramientas
 
@@ -26,7 +28,7 @@ _Desarrollada en Java, Spring y Thymeleaf_
 
 
 ## Expresiones de Gratitud 🎁
-* Agradecemos al equipo de egg educacion por la orientacion en el el proceso de desarrollo
+* Agradecemos al equipo de Egg Educacion por la orientacion en el el proceso de desarrollo
 * Comenta a otros sobre este proyecto 📢
 
 ## Vistas 📦
